@@ -18,8 +18,11 @@ End-to-End ETL + SQL Analytics | Python, pandas, SQL Server
 1️⃣ Kaggle API → Downloads 25K+ retail orders
 
 2️⃣ Pandas ETL → Cleans nulls, engineers profit column
+
 3️⃣ SQL Server → Optimized table structure
+
 4️⃣ 6 SQL Queries → Revenue, growth, peak analysis
+
 
 ##  Key Business Insights
 
