@@ -33,9 +33,13 @@ End-to-End ETL + SQL Analytics | Python, pandas, SQL Server
 ##  File Structure
 
 ├── README.md # This file
+
 ├── requirements.txt # pip install -r
+
 ├── etl_pipeline.py # Main Python ETL
+
 ├── sql_analysis.sql # 6 analytics queries
+
 └── data/raw/orders.csv # Sample dataset
 
 ##  Quick Start
